@@ -12,6 +12,6 @@ Based on [this](https://www.seas.upenn.edu/~cis194/spring13/lectures.html) cours
 
 ## TODO:
 
-[] - Add unit testing
+- [ ] Add unit testing
 
-[] - Setup 
+- [ ] Setup Github Actions 
