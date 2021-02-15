@@ -6,6 +6,12 @@ I'm going to go over the main features of the functional programming paradigm an
 
 Furthermore this repository will try to incorporate some of the Github CI/CD features to do automatic unit testing.
 
+## Overview
+
+### Learning1 - number manipulation, towers of hanoi
+
+### Learning2 - Log parsing, binary tree
+
 ## Source
 
 Based on [this](https://www.seas.upenn.edu/~cis194/spring13/lectures.html) course.
